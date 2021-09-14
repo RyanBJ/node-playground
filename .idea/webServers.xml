@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a58b02d-a1cb-4d54-846a-9869537e78b9" name="node-playground">
+        <fileTransfer rootFolder="/home/ryan/node-playground" accessType="SFTP" host="192.168.1.5" port="22" sshConfigId="08e061bd-c868-40c8-b589-1f1d2853a772" sshConfig="ryan@nova">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
