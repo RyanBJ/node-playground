@@ -1,2 +1,5 @@
+function ashley() {
+    console.log("Ashley and Ryan were here")
+}
+export default ashley
 
-console.log("Ashley was here")

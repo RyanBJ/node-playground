@@ -1,1 +1,3 @@
-console.log('file committed from ryan branch')
+export const ryan = () => {
+    console.log('Ryan was here')
+}
